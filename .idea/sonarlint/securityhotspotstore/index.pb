@@ -1,0 +1,27 @@
+
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/main/java/zengcode/Main.java,6/f/6fa3936751476b0057d88389921b0b787fb2aebc
+f
+6src/main/java/com/zengcode/proxy/HelloServiceImpl.java,9/7/97dcfef574e58c7798473c2c7ad8f5894207430b
+g
+7src/main/java/com/zengcode/proxy/HelloServiceProxy.java,c/0/c07eb1fdc93430122edbb26198e89eb72e548c01
+Z
+*src/main/java/com/zengcode/proxy/Main.java,f/1/f18718bec16744b37391ee704048756a5862b6d3
+c
+3src/main/java/com/zengcode/proxy/example1/Main.java,4/6/465d9e6e1e0fc1079d8456583f5a013e35fc3ad3
+p
+@src/main/java/com/zengcode/proxy/example1/HelloServiceProxy.java,9/b/9b6ae12687e75f42786888470cbc92f66d2d757e
+o
+?src/main/java/com/zengcode/proxy/example1/HelloServiceImpl.java,c/e/ce92aa8e014be26d527c3ddba8148addec0590d0
+j
+:src/main/java/com/zengcode/proxy/dynamic/HelloService.java,7/0/70e1a03c559e705f0b850da9d87bac9e0ff287ae
+n
+>src/main/java/com/zengcode/proxy/dynamic/HelloServiceImpl.java,1/2/123ba7c0150d19139d5f2817f8101f996211fc49
+b
+2src/main/java/com/zengcode/proxy/dynamic/Main.java,3/3/338e728fdc17a4aa4ce6c6ba40d7bd85091105cc
+v
+Fsrc/main/java/com/zengcode/proxy/dynamic/LoggingInvocationHandler.java,a/a/aabea395c5565d2add0231fe3c8f62552bc81c45
+j
+:src/main/java/com/zengcode/proxy/dynamic/ProxyFactory.java,b/8/b86e0214a42eb70eade03ad53f9f65d62617812b
