@@ -22,6 +22,6 @@ public class Main {
                 HelloService.class,
                 new StrategyInvocationHandler(target, strategies)
         );
-        proxy.sayHello("Pea");
+        proxy.sayHello("Chiwa");
     }
 }
